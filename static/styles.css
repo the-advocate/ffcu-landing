@@ -3353,6 +3353,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.bg-brand-green {
+  background-color: #056839;
+}
+
 .container {
   height: 100%;
   margin: auto;
@@ -3491,7 +3495,8 @@ body {
 }
 
 .disclaimers {
-  border-top: 10px solid #056839;
+  background-color: #2d3367;
+  color: rgba(255, 255, 255, .9);
 }
 
 @media screen and (min-width: 30em) {

@@ -28,6 +28,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.bg-brand-green {
+  background-color: var(--green);
+}
+
 .container {
   height: 100%;
   margin: auto;
@@ -152,7 +156,8 @@ body {
 }
 
 .disclaimers {
-  border-top: 10px solid var(--green);
+  background-color: var(--blue);
+  color: rgba(255, 255, 255, 0.9);
 }
 
 @media screen and (min-width: 30em) {
