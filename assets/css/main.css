@@ -28,6 +28,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.bg-brand-blue {
+  background-color: var(--blue);
+}
+
 .bg-brand-green {
   background-color: var(--green);
 }
